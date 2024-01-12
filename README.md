@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeremyddsmith
 - 👀 I’m interested in Disc Golf, cooking, playing video games, and visiting breweries.
-- 🌱 I’m currently working towards getting my AWS SAA certificate.
 - 📫 How to reach me - [My Linkedin](www.linkedin.com/jeremy-desjardins-smith) 
 
 <!---
