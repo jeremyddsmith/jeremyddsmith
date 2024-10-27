@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeremyddsmith
-- 👀 I’m interested in Disc Golf, cooking, playing video games, and visiting breweries.
+- 👀 I’m an IT professional who has taken a hiatus from the field but has recently returned.
 - 📫 How to reach me - [My Linkedin](www.linkedin.com/jeremy-desjardins-smith) 
 
 <!---
